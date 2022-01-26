@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "702698732379",
+    "firebase_url": "https://painmate-bwu-db-default-rtdb.firebaseio.com",
+    "project_id": "painmate-bwu-db",
+    "storage_bucket": "painmate-bwu-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702698732379:android:56b7d55cfacf6fb27c787e",
+        "android_client_info": {
+          "package_name": "com.bhaskar.painmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702698732379-dbuh28o76gqpvuakchsute2vq739e7hg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bhaskar.painmate",
+            "certificate_hash": "659ca49bdf9b581a9c1bcff29feac594c675e7b6"
+          }
+        },
+        {
+          "client_id": "702698732379-0056p86numi2k3p93k5mu1n88muu0md9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN8Oo_ABmxZTdUBBTcDXn2DMPnK4CjnEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702698732379-0056p86numi2k3p93k5mu1n88muu0md9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702698732379:android:4efd3f7f948b567b7c787e",
+        "android_client_info": {
+          "package_name": "com.example.painmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702698732379-jrf2452ubg45vbtcnv2v3d2nud08lujc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.painmate",
+            "certificate_hash": "98eb9b07872770f234f9e5ebf449529d9dcda21a"
+          }
+        },
+        {
+          "client_id": "702698732379-0056p86numi2k3p93k5mu1n88muu0md9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN8Oo_ABmxZTdUBBTcDXn2DMPnK4CjnEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702698732379-0056p86numi2k3p93k5mu1n88muu0md9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702698732379:android:afdfc279f587bc1c7c787e",
+        "android_client_info": {
+          "package_name": "com.example.painmate_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702698732379-e5337s6uu938n7vil9t697ophj1aoif5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.painmate_flutter",
+            "certificate_hash": "659ca49bdf9b581a9c1bcff29feac594c675e7b6"
+          }
+        },
+        {
+          "client_id": "702698732379-0056p86numi2k3p93k5mu1n88muu0md9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN8Oo_ABmxZTdUBBTcDXn2DMPnK4CjnEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702698732379-0056p86numi2k3p93k5mu1n88muu0md9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
